@@ -1,0 +1,10 @@
+# Raw OpenAlex downloads: large and fully reproducible with pull_openalex.py (see README).
+*.json
+# Early exploratory scans (2026-09-26) made with an older method dictionary; superseded by the series results.
+method_prevalence*.csv
+# Local working notes and generated charts
+series/PROGRESS.md
+charts/
+__pycache__/
+.Rhistory
+.RData

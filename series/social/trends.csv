@@ -1,0 +1,325 @@
+subfield,method,early_n,early_x,late_n,late_x
+sociology,Scale development / psychometric validation,6927,24,9271,34
+sociology,Factor analysis (EFA/CFA),6927,24,9271,39
+sociology,IRT / Rasch / DIF,6927,5,9271,6
+sociology,"Reliability (alpha, omega, ICC)",6927,59,9271,134
+sociology,t test,6927,24,9271,31
+sociology,ANOVA / ANCOVA / MANOVA,6927,41,9271,67
+sociology,Correlation,6927,214,9271,284
+sociology,Linear / multiple / hierarchical regression,6927,163,9271,271
+sociology,Logistic / ordinal / multinomial regression,6927,60,9271,105
+sociology,"Count models (Poisson, negative binomial)",6927,13,9271,17
+sociology,Chi-square / nonparametric,6927,28,9271,44
+sociology,Mediation,6927,173,9271,345
+sociology,Moderation / interactions,6927,162,9271,231
+sociology,SEM / path analysis,6927,73,9271,127
+sociology,Multilevel / mixed-effects models,6927,44,9271,66
+sociology,Growth curve / trajectories,6927,7,9271,21
+sociology,Latent profile / class / mixture,6927,16,9271,21
+sociology,Cluster analysis,6927,14,9271,24
+sociology,Network analysis (psychometric networks),6927,32,9271,46
+sociology,Machine learning / NLP,6927,75,9271,141
+sociology,Bayesian,6927,19,9271,36
+sociology,Survival / time-to-event,6927,11,9271,21
+sociology,Missing data / multiple imputation,6927,3,9271,8
+sociology,Dyadic / APIM,6927,28,9271,21
+sociology,"Time series / dynamic models (VAR, DSEM)",6927,25,9271,25
+sociology,"Text analysis (LIWC, sentiment, topic models)",6927,30,9271,72
+sociology,Power analysis reported,6927,2,9271,2
+sociology,Panel data / fixed effects,6927,37,9271,108
+sociology,"Causal designs (DiD, RDD, IV, synthetic control)",6927,43,9271,86
+sociology,Propensity scores / matching,6927,4,9271,11
+sociology,PLS-SEM,6927,23,9271,67
+sociology,"Econometric time series (ARDL, GARCH, VECM)",6927,6,9271,15
+sociology,"Efficiency analysis (DEA, stochastic frontier)",6927,3,9271,6
+sociology,Qualitative comparative analysis (QCA),6927,10,9271,51
+sociology,Spatial analysis / GIS,6927,41,9271,69
+sociology,Conjoint / discrete choice,6927,18,9271,28
+polisci,Scale development / psychometric validation,2808,2,3929,2
+polisci,Factor analysis (EFA/CFA),2808,3,3929,2
+polisci,IRT / Rasch / DIF,2808,1,3929,4
+polisci,"Reliability (alpha, omega, ICC)",2808,14,3929,45
+polisci,t test,2808,2,3929,3
+polisci,ANOVA / ANCOVA / MANOVA,2808,5,3929,15
+polisci,Correlation,2808,45,3929,62
+polisci,Linear / multiple / hierarchical regression,2808,43,3929,57
+polisci,Logistic / ordinal / multinomial regression,2808,12,3929,29
+polisci,"Count models (Poisson, negative binomial)",2808,2,3929,6
+polisci,Chi-square / nonparametric,2808,2,3929,7
+polisci,Mediation,2808,39,3929,69
+polisci,Moderation / interactions,2808,17,3929,25
+polisci,SEM / path analysis,2808,6,3929,16
+polisci,Multilevel / mixed-effects models,2808,13,3929,30
+polisci,Growth curve / trajectories,2808,0,3929,0
+polisci,Latent profile / class / mixture,2808,1,3929,3
+polisci,Cluster analysis,2808,1,3929,5
+polisci,Network analysis (psychometric networks),2808,10,3929,21
+polisci,Machine learning / NLP,2808,23,3929,43
+polisci,Bayesian,2808,3,3929,6
+polisci,Survival / time-to-event,2808,9,3929,13
+polisci,Missing data / multiple imputation,2808,1,3929,4
+polisci,Dyadic / APIM,2808,8,3929,7
+polisci,"Time series / dynamic models (VAR, DSEM)",2808,9,3929,11
+polisci,"Text analysis (LIWC, sentiment, topic models)",2808,11,3929,21
+polisci,Power analysis reported,2808,0,3929,0
+polisci,Panel data / fixed effects,2808,16,3929,57
+polisci,"Causal designs (DiD, RDD, IV, synthetic control)",2808,21,3929,41
+polisci,Propensity scores / matching,2808,1,3929,6
+polisci,PLS-SEM,2808,0,3929,8
+polisci,"Econometric time series (ARDL, GARCH, VECM)",2808,5,3929,12
+polisci,"Efficiency analysis (DEA, stochastic frontier)",2808,0,3929,2
+polisci,Qualitative comparative analysis (QCA),2808,2,3929,7
+polisci,Spatial analysis / GIS,2808,9,3929,17
+polisci,Conjoint / discrete choice,2808,6,3929,8
+economics,Scale development / psychometric validation,2200,1,2831,9
+economics,Factor analysis (EFA/CFA),2200,9,2831,7
+economics,IRT / Rasch / DIF,2200,2,2831,2
+economics,"Reliability (alpha, omega, ICC)",2200,16,2831,54
+economics,t test,2200,11,2831,18
+economics,ANOVA / ANCOVA / MANOVA,2200,10,2831,13
+economics,Correlation,2200,122,2831,175
+economics,Linear / multiple / hierarchical regression,2200,116,2831,181
+economics,Logistic / ordinal / multinomial regression,2200,48,2831,49
+economics,"Count models (Poisson, negative binomial)",2200,9,2831,17
+economics,Chi-square / nonparametric,2200,23,2831,39
+economics,Mediation,2200,27,2831,47
+economics,Moderation / interactions,2200,27,2831,54
+economics,SEM / path analysis,2200,17,2831,33
+economics,Multilevel / mixed-effects models,2200,21,2831,32
+economics,Growth curve / trajectories,2200,3,2831,1
+economics,Latent profile / class / mixture,2200,4,2831,12
+economics,Cluster analysis,2200,13,2831,13
+economics,Network analysis (psychometric networks),2200,3,2831,12
+economics,Machine learning / NLP,2200,60,2831,130
+economics,Bayesian,2200,28,2831,39
+economics,Survival / time-to-event,2200,19,2831,13
+economics,Missing data / multiple imputation,2200,2,2831,5
+economics,Dyadic / APIM,2200,1,2831,3
+economics,"Time series / dynamic models (VAR, DSEM)",2200,96,2831,181
+economics,"Text analysis (LIWC, sentiment, topic models)",2200,2,2831,11
+economics,Power analysis reported,2200,0,2831,1
+economics,Panel data / fixed effects,2200,113,2831,249
+economics,"Causal designs (DiD, RDD, IV, synthetic control)",2200,99,2831,187
+economics,Propensity scores / matching,2200,9,2831,16
+economics,PLS-SEM,2200,9,2831,15
+economics,"Econometric time series (ARDL, GARCH, VECM)",2200,49,2831,111
+economics,"Efficiency analysis (DEA, stochastic frontier)",2200,6,2831,14
+economics,Qualitative comparative analysis (QCA),2200,3,2831,5
+economics,Spatial analysis / GIS,2200,23,2831,40
+economics,Conjoint / discrete choice,2200,21,2831,39
+public_health,Scale development / psychometric validation,1255,11,1515,15
+public_health,Factor analysis (EFA/CFA),1255,11,1515,6
+public_health,IRT / Rasch / DIF,1255,1,1515,4
+public_health,"Reliability (alpha, omega, ICC)",1255,25,1515,49
+public_health,t test,1255,20,1515,18
+public_health,ANOVA / ANCOVA / MANOVA,1255,19,1515,28
+public_health,Correlation,1255,102,1515,83
+public_health,Linear / multiple / hierarchical regression,1255,65,1515,71
+public_health,Logistic / ordinal / multinomial regression,1255,62,1515,61
+public_health,"Count models (Poisson, negative binomial)",1255,11,1515,14
+public_health,Chi-square / nonparametric,1255,27,1515,23
+public_health,Mediation,1255,52,1515,68
+public_health,Moderation / interactions,1255,17,1515,23
+public_health,SEM / path analysis,1255,7,1515,17
+public_health,Multilevel / mixed-effects models,1255,16,1515,29
+public_health,Growth curve / trajectories,1255,2,1515,12
+public_health,Latent profile / class / mixture,1255,7,1515,6
+public_health,Cluster analysis,1255,5,1515,0
+public_health,Network analysis (psychometric networks),1255,0,1515,5
+public_health,Machine learning / NLP,1255,19,1515,42
+public_health,Bayesian,1255,11,1515,7
+public_health,Survival / time-to-event,1255,11,1515,19
+public_health,Missing data / multiple imputation,1255,3,1515,5
+public_health,Dyadic / APIM,1255,4,1515,11
+public_health,"Time series / dynamic models (VAR, DSEM)",1255,6,1515,17
+public_health,"Text analysis (LIWC, sentiment, topic models)",1255,2,1515,1
+public_health,Power analysis reported,1255,0,1515,0
+public_health,Panel data / fixed effects,1255,5,1515,3
+public_health,"Causal designs (DiD, RDD, IV, synthetic control)",1255,0,1515,11
+public_health,Propensity scores / matching,1255,2,1515,6
+public_health,PLS-SEM,1255,3,1515,4
+public_health,"Econometric time series (ARDL, GARCH, VECM)",1255,0,1515,0
+public_health,"Efficiency analysis (DEA, stochastic frontier)",1255,0,1515,1
+public_health,Qualitative comparative analysis (QCA),1255,0,1515,2
+public_health,Spatial analysis / GIS,1255,10,1515,10
+public_health,Conjoint / discrete choice,1255,4,1515,6
+nursing_health,Scale development / psychometric validation,1935,20,2157,19
+nursing_health,Factor analysis (EFA/CFA),1935,13,2157,9
+nursing_health,IRT / Rasch / DIF,1935,3,2157,3
+nursing_health,"Reliability (alpha, omega, ICC)",1935,47,2157,83
+nursing_health,t test,1935,31,2157,29
+nursing_health,ANOVA / ANCOVA / MANOVA,1935,29,2157,30
+nursing_health,Correlation,1935,133,2157,140
+nursing_health,Linear / multiple / hierarchical regression,1935,100,2157,92
+nursing_health,Logistic / ordinal / multinomial regression,1935,83,2157,63
+nursing_health,"Count models (Poisson, negative binomial)",1935,6,2157,12
+nursing_health,Chi-square / nonparametric,1935,61,2157,47
+nursing_health,Mediation,1935,55,2157,84
+nursing_health,Moderation / interactions,1935,27,2157,45
+nursing_health,SEM / path analysis,1935,29,2157,38
+nursing_health,Multilevel / mixed-effects models,1935,21,2157,44
+nursing_health,Growth curve / trajectories,1935,5,2157,2
+nursing_health,Latent profile / class / mixture,1935,7,2157,5
+nursing_health,Cluster analysis,1935,3,2157,5
+nursing_health,Network analysis (psychometric networks),1935,8,2157,5
+nursing_health,Machine learning / NLP,1935,14,2157,22
+nursing_health,Bayesian,1935,5,2157,0
+nursing_health,Survival / time-to-event,1935,10,2157,14
+nursing_health,Missing data / multiple imputation,1935,4,2157,1
+nursing_health,Dyadic / APIM,1935,9,2157,9
+nursing_health,"Time series / dynamic models (VAR, DSEM)",1935,4,2157,6
+nursing_health,"Text analysis (LIWC, sentiment, topic models)",1935,2,2157,5
+nursing_health,Power analysis reported,1935,0,2157,0
+nursing_health,Panel data / fixed effects,1935,15,2157,19
+nursing_health,"Causal designs (DiD, RDD, IV, synthetic control)",1935,27,2157,26
+nursing_health,Propensity scores / matching,1935,6,2157,6
+nursing_health,PLS-SEM,1935,8,2157,13
+nursing_health,"Econometric time series (ARDL, GARCH, VECM)",1935,0,2157,0
+nursing_health,"Efficiency analysis (DEA, stochastic frontier)",1935,1,2157,0
+nursing_health,Qualitative comparative analysis (QCA),1935,0,2157,0
+nursing_health,Spatial analysis / GIS,1935,15,2157,12
+nursing_health,Conjoint / discrete choice,1935,5,2157,7
+communication,Scale development / psychometric validation,577,2,933,2
+communication,Factor analysis (EFA/CFA),577,3,933,2
+communication,IRT / Rasch / DIF,577,0,933,0
+communication,"Reliability (alpha, omega, ICC)",577,10,933,17
+communication,t test,577,0,933,7
+communication,ANOVA / ANCOVA / MANOVA,577,2,933,2
+communication,Correlation,577,14,933,24
+communication,Linear / multiple / hierarchical regression,577,11,933,18
+communication,Logistic / ordinal / multinomial regression,577,3,933,6
+communication,"Count models (Poisson, negative binomial)",577,0,933,1
+communication,Chi-square / nonparametric,577,1,933,4
+communication,Mediation,577,19,933,42
+communication,Moderation / interactions,577,14,933,29
+communication,SEM / path analysis,577,11,933,18
+communication,Multilevel / mixed-effects models,577,3,933,3
+communication,Growth curve / trajectories,577,1,933,1
+communication,Latent profile / class / mixture,577,2,933,0
+communication,Cluster analysis,577,0,933,0
+communication,Network analysis (psychometric networks),577,9,933,10
+communication,Machine learning / NLP,577,12,933,16
+communication,Bayesian,577,1,933,1
+communication,Survival / time-to-event,577,0,933,0
+communication,Missing data / multiple imputation,577,0,933,2
+communication,Dyadic / APIM,577,0,933,2
+communication,"Time series / dynamic models (VAR, DSEM)",577,2,933,2
+communication,"Text analysis (LIWC, sentiment, topic models)",577,11,933,13
+communication,Power analysis reported,577,0,933,0
+communication,Panel data / fixed effects,577,2,933,2
+communication,"Causal designs (DiD, RDD, IV, synthetic control)",577,1,933,4
+communication,Propensity scores / matching,577,1,933,1
+communication,PLS-SEM,577,4,933,13
+communication,"Econometric time series (ARDL, GARCH, VECM)",577,0,933,2
+communication,"Efficiency analysis (DEA, stochastic frontier)",577,0,933,0
+communication,Qualitative comparative analysis (QCA),577,0,933,5
+communication,Spatial analysis / GIS,577,1,933,1
+communication,Conjoint / discrete choice,577,2,933,0
+all,Scale development / psychometric validation,15702,60,20636,81
+all,Factor analysis (EFA/CFA),15702,63,20636,65
+all,IRT / Rasch / DIF,15702,12,20636,19
+all,"Reliability (alpha, omega, ICC)",15702,171,20636,382
+all,t test,15702,88,20636,106
+all,ANOVA / ANCOVA / MANOVA,15702,106,20636,155
+all,Correlation,15702,630,20636,768
+all,Linear / multiple / hierarchical regression,15702,498,20636,690
+all,Logistic / ordinal / multinomial regression,15702,268,20636,313
+all,"Count models (Poisson, negative binomial)",15702,41,20636,67
+all,Chi-square / nonparametric,15702,142,20636,164
+all,Mediation,15702,365,20636,655
+all,Moderation / interactions,15702,264,20636,407
+all,SEM / path analysis,15702,143,20636,249
+all,Multilevel / mixed-effects models,15702,118,20636,204
+all,Growth curve / trajectories,15702,18,20636,37
+all,Latent profile / class / mixture,15702,37,20636,47
+all,Cluster analysis,15702,36,20636,47
+all,Network analysis (psychometric networks),15702,62,20636,99
+all,Machine learning / NLP,15702,203,20636,394
+all,Bayesian,15702,67,20636,89
+all,Survival / time-to-event,15702,60,20636,80
+all,Missing data / multiple imputation,15702,13,20636,25
+all,Dyadic / APIM,15702,50,20636,53
+all,"Time series / dynamic models (VAR, DSEM)",15702,142,20636,242
+all,"Text analysis (LIWC, sentiment, topic models)",15702,58,20636,123
+all,Power analysis reported,15702,2,20636,3
+all,Panel data / fixed effects,15702,188,20636,438
+all,"Causal designs (DiD, RDD, IV, synthetic control)",15702,191,20636,355
+all,Propensity scores / matching,15702,23,20636,46
+all,PLS-SEM,15702,47,20636,120
+all,"Econometric time series (ARDL, GARCH, VECM)",15702,60,20636,140
+all,"Efficiency analysis (DEA, stochastic frontier)",15702,10,20636,23
+all,Qualitative comparative analysis (QCA),15702,15,20636,70
+all,Spatial analysis / GIS,15702,99,20636,149
+all,Conjoint / discrete choice,15702,56,20636,88
+us,Scale development / psychometric validation,1463,8,922,2
+us,Factor analysis (EFA/CFA),1463,8,922,4
+us,IRT / Rasch / DIF,1463,0,922,0
+us,"Reliability (alpha, omega, ICC)",1463,7,922,9
+us,t test,1463,20,922,9
+us,ANOVA / ANCOVA / MANOVA,1463,18,922,4
+us,Correlation,1463,89,922,48
+us,Linear / multiple / hierarchical regression,1463,70,922,42
+us,Logistic / ordinal / multinomial regression,1463,47,922,24
+us,"Count models (Poisson, negative binomial)",1463,2,922,2
+us,Chi-square / nonparametric,1463,29,922,5
+us,Mediation,1463,42,922,33
+us,Moderation / interactions,1463,49,922,25
+us,SEM / path analysis,1463,12,922,6
+us,Multilevel / mixed-effects models,1463,17,922,11
+us,Growth curve / trajectories,1463,1,922,5
+us,Latent profile / class / mixture,1463,5,922,2
+us,Cluster analysis,1463,1,922,1
+us,Network analysis (psychometric networks),1463,4,922,4
+us,Machine learning / NLP,1463,25,922,12
+us,Bayesian,1463,6,922,3
+us,Survival / time-to-event,1463,8,922,3
+us,Missing data / multiple imputation,1463,2,922,1
+us,Dyadic / APIM,1463,4,922,3
+us,"Time series / dynamic models (VAR, DSEM)",1463,9,922,8
+us,"Text analysis (LIWC, sentiment, topic models)",1463,7,922,8
+us,Power analysis reported,1463,0,922,0
+us,Panel data / fixed effects,1463,18,922,16
+us,"Causal designs (DiD, RDD, IV, synthetic control)",1463,25,922,28
+us,Propensity scores / matching,1463,8,922,1
+us,PLS-SEM,1463,0,922,2
+us,"Econometric time series (ARDL, GARCH, VECM)",1463,4,922,4
+us,"Efficiency analysis (DEA, stochastic frontier)",1463,0,922,0
+us,Qualitative comparative analysis (QCA),1463,3,922,3
+us,Spatial analysis / GIS,1463,21,922,8
+us,Conjoint / discrete choice,1463,3,922,6
+other,Scale development / psychometric validation,14239,52,19714,79
+other,Factor analysis (EFA/CFA),14239,55,19714,61
+other,IRT / Rasch / DIF,14239,12,19714,19
+other,"Reliability (alpha, omega, ICC)",14239,164,19714,373
+other,t test,14239,68,19714,97
+other,ANOVA / ANCOVA / MANOVA,14239,88,19714,151
+other,Correlation,14239,541,19714,720
+other,Linear / multiple / hierarchical regression,14239,428,19714,648
+other,Logistic / ordinal / multinomial regression,14239,221,19714,289
+other,"Count models (Poisson, negative binomial)",14239,39,19714,65
+other,Chi-square / nonparametric,14239,113,19714,159
+other,Mediation,14239,323,19714,622
+other,Moderation / interactions,14239,215,19714,382
+other,SEM / path analysis,14239,131,19714,243
+other,Multilevel / mixed-effects models,14239,101,19714,193
+other,Growth curve / trajectories,14239,17,19714,32
+other,Latent profile / class / mixture,14239,32,19714,45
+other,Cluster analysis,14239,35,19714,46
+other,Network analysis (psychometric networks),14239,58,19714,95
+other,Machine learning / NLP,14239,178,19714,382
+other,Bayesian,14239,61,19714,86
+other,Survival / time-to-event,14239,52,19714,77
+other,Missing data / multiple imputation,14239,11,19714,24
+other,Dyadic / APIM,14239,46,19714,50
+other,"Time series / dynamic models (VAR, DSEM)",14239,133,19714,234
+other,"Text analysis (LIWC, sentiment, topic models)",14239,51,19714,115
+other,Power analysis reported,14239,2,19714,3
+other,Panel data / fixed effects,14239,170,19714,422
+other,"Causal designs (DiD, RDD, IV, synthetic control)",14239,166,19714,327
+other,Propensity scores / matching,14239,15,19714,45
+other,PLS-SEM,14239,47,19714,118
+other,"Econometric time series (ARDL, GARCH, VECM)",14239,56,19714,136
+other,"Efficiency analysis (DEA, stochastic frontier)",14239,10,19714,23
+other,Qualitative comparative analysis (QCA),14239,12,19714,67
+other,Spatial analysis / GIS,14239,78,19714,141
+other,Conjoint / discrete choice,14239,53,19714,82
