@@ -57,3 +57,19 @@ p <- ggplot(h, aes(x = bin_low + 5, y = n, fill = over)) +
   theme_dsh() + theme(panel.grid.major.y = element_line(colour = rule, linewidth = .4), panel.grid.major.x = element_blank())
 save(p, "abstract-length.png", 950)
 cat("charts written to", out, "\n")
+
+# 3. For the Results-chapter guide: among abstracts that name a test, how often they report its numbers.
+rr <- read_csv("abstract_guide/results_reporting.csv", show_col_types = FALSE) %>%
+  mutate(reported = factor(reported, levels = c("p value", "Effect size", "Confidence interval")),
+         test = fct_reorder(test, share * (reported == "Effect size"), .fun = sum))
+p <- ggplot(rr, aes(x = share, y = test, fill = reported)) +
+  geom_col(position = position_dodge(width = .78), width = .72) +
+  geom_text(aes(label = percent(share, 1)), position = position_dodge(width = .78), hjust = -.2, size = 2.9, colour = plum, family = "Arial") +
+  scale_fill_manual(values = c("p value" = pale, "Effect size" = coral, "Confidence interval" = plum), breaks = c("p value", "Effect size", "Confidence interval")) +
+  scale_x_continuous(labels = percent_format(1), expand = expansion(mult = c(0, .12))) +
+  labs(title = "Naming a test is not reporting it",
+       subtitle = "Among abstracts that name each test, the share that also report a p value, an effect size, or a confidence interval",
+       x = NULL, y = NULL, fill = NULL, caption = paste0(source_line, "\nOdds ratios count as effect sizes, which is why logistic regression leads.")) +
+  theme_dsh() + theme(legend.position = "top", legend.justification = "left", legend.text = element_text(colour = deep, size = rel(.85)), plot.subtitle = element_text(size = 9.3))
+save(p, "results-reporting.png", 1150)
+cat("results chart written\n")

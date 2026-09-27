@@ -1,0 +1,25 @@
+test,abstracts,reported,x,share
+t test,1608,p value,161,0.10012437810945274
+t test,1608,Effect size,143,0.08893034825870647
+t test,1608,Confidence interval,18,0.011194029850746268
+ANOVA family,1192,p value,160,0.1342281879194631
+ANOVA family,1192,Effect size,91,0.07634228187919463
+ANOVA family,1192,Confidence interval,14,0.01174496644295302
+Chi-square / nonparametric,1084,p value,180,0.16605166051660517
+Chi-square / nonparametric,1084,Effect size,98,0.09040590405904059
+Chi-square / nonparametric,1084,Confidence interval,55,0.0507380073800738
+Correlation,5058,p value,455,0.08995650454725188
+Correlation,5058,Effect size,426,0.08422301304863583
+Correlation,5058,Confidence interval,67,0.01324634242783709
+Linear regression,3892,p value,367,0.09429599177800617
+Linear regression,3892,Effect size,381,0.09789311408016443
+Linear regression,3892,Confidence interval,154,0.039568345323741004
+Logistic regression,1373,p value,161,0.11726147123088128
+Logistic regression,1373,Effect size,262,0.1908230152949745
+Logistic regression,1373,Confidence interval,231,0.16824471959213402
+Mediation,3477,p value,132,0.03796376186367558
+Mediation,3477,Effect size,151,0.04342824273799252
+Mediation,3477,Confidence interval,59,0.016968651136036815
+SEM / path analysis,2026,p value,77,0.038005923000987166
+SEM / path analysis,2026,Effect size,108,0.05330700888450148
+SEM / path analysis,2026,Confidence interval,17,0.00839091806515301

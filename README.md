@@ -36,6 +36,7 @@ A percentage is the share of abstracts that *mention* a method, not how often th
 | `analyze_subfields.py`, `make_blog_charts.R`, `report_psych.py` | Psychology series (five subfields). |
 | `series/analyze_series.py`, `series/make_series_charts.R`, `series/report.py` | Education, business, and social sciences & health series. The group definitions (subfields and education topic clusters) are in `SERIES` in `analyze_series.py`. |
 | `abstract_elements.py`, `make_abstract_charts.R` | [How to write a dissertation abstract](https://dissertationstatshelper.com/blog/how-to-write-a-dissertation-abstract): how often abstracts include the elements APA 7 and JARS ask for, and how long they are (all four series' pulls). Results in `abstract_guide/`. |
+| `results_reporting.py` | [How to write the results chapter](https://dissertationstatshelper.com/blog/how-to-write-a-dissertation-results-chapter): among abstracts that name a test, how often they report a p value, an effect size, or a confidence interval. Chart in `make_abstract_charts.R`. |
 | `psych_subfields/*.csv`, `series/<series>/*.csv` | Results: `summary.csv` (design mix), `methods.csv`, `trends.csv`, `topics.csv`, and `post_stats.csv` (every number quoted in the posts, with p and q values). |
 
 The raw OpenAlex downloads (`*.json`) are not committed. They are large and can be rebuilt with the commands below. OpenAlex data are CC0.
@@ -75,7 +76,7 @@ python ../pull_openalex.py primary_topic.subfield.id 2002 raw/soc_economics.json
 for s in education business social; do python analyze_series.py $s && Rscript make_series_charts.R $s; done
 ```
 
-The abstract guide uses the pulls above. From the repository root, run `python abstract_elements.py`, then `Rscript make_abstract_charts.R`.
+The abstract guide uses the pulls above. From the repository root, run `python abstract_elements.py` and `python results_reporting.py`, then `Rscript make_abstract_charts.R`.
 
 Charts go to `charts/` by default. Set `DSH_CHART_DIR` to write them somewhere else.
 
