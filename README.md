@@ -84,3 +84,7 @@ On 2026-09-27, spot checks across fields led to tighter patterns for three metho
 - **Mediation** had been counting "computer-mediated", "remediation" and conflict mediation.
 - **Growth models** had been counting everyday uses of "trajectory", such as career or historical trajectories.
 - **Vector autoregression (VAR)** had been counting "VaR" (value at risk).
+
+## License
+
+The code is released under the [MIT License](LICENSE). The result tables are derived from OpenAlex data, which are CC0.
