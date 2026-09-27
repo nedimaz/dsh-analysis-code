@@ -1,0 +1,301 @@
+field,bin_low,n
+Psychology,60,156
+Psychology,70,106
+Psychology,80,163
+Psychology,90,346
+Psychology,100,245
+Psychology,110,323
+Psychology,120,384
+Psychology,130,476
+Psychology,140,879
+Psychology,150,596
+Psychology,160,671
+Psychology,170,669
+Psychology,180,737
+Psychology,190,841
+Psychology,200,813
+Psychology,210,756
+Psychology,220,815
+Psychology,230,835
+Psychology,240,979
+Psychology,250,704
+Psychology,260,625
+Psychology,270,650
+Psychology,280,597
+Psychology,290,705
+Psychology,300,513
+Psychology,310,452
+Psychology,320,428
+Psychology,330,447
+Psychology,340,593
+Psychology,350,325
+Psychology,360,258
+Psychology,370,238
+Psychology,380,199
+Psychology,390,312
+Psychology,400,211
+Psychology,410,152
+Psychology,420,170
+Psychology,430,174
+Psychology,440,155
+Psychology,450,138
+Psychology,460,118
+Psychology,470,137
+Psychology,480,154
+Psychology,490,173
+Psychology,500,109
+Psychology,510,110
+Psychology,520,91
+Psychology,530,96
+Psychology,540,122
+Psychology,550,104
+Psychology,560,96
+Psychology,570,100
+Psychology,580,83
+Psychology,590,112
+Psychology,600,66
+Psychology,610,49
+Psychology,620,42
+Psychology,630,34
+Psychology,640,31
+Psychology,650,27
+Psychology,660,22
+Psychology,670,23
+Psychology,680,34
+Psychology,690,26
+Psychology,700,26
+Psychology,710,26
+Psychology,720,15
+Psychology,730,12
+Psychology,740,20
+Psychology,750,21
+Psychology,760,17
+Psychology,770,17
+Psychology,780,13
+Psychology,790,15
+Psychology,800,331
+Education,60,195
+Education,70,116
+Education,80,117
+Education,90,235
+Education,100,173
+Education,110,240
+Education,120,317
+Education,130,389
+Education,140,519
+Education,150,548
+Education,160,598
+Education,170,704
+Education,180,729
+Education,190,845
+Education,200,821
+Education,210,834
+Education,220,880
+Education,230,837
+Education,240,918
+Education,250,722
+Education,260,719
+Education,270,654
+Education,280,609
+Education,290,676
+Education,300,567
+Education,310,468
+Education,320,432
+Education,330,447
+Education,340,469
+Education,350,280
+Education,360,224
+Education,370,204
+Education,380,166
+Education,390,177
+Education,400,122
+Education,410,108
+Education,420,83
+Education,430,91
+Education,440,92
+Education,450,82
+Education,460,71
+Education,470,89
+Education,480,62
+Education,490,86
+Education,500,71
+Education,510,47
+Education,520,41
+Education,530,40
+Education,540,56
+Education,550,38
+Education,560,36
+Education,570,37
+Education,580,26
+Education,590,44
+Education,600,27
+Education,610,22
+Education,620,17
+Education,630,18
+Education,640,13
+Education,650,10
+Education,660,16
+Education,670,14
+Education,680,9
+Education,690,21
+Education,700,13
+Education,710,13
+Education,720,10
+Education,730,12
+Education,740,10
+Education,750,10
+Education,760,10
+Education,770,7
+Education,780,6
+Education,790,5
+Education,800,203
+Business,60,185
+Business,70,204
+Business,80,273
+Business,90,746
+Business,100,373
+Business,110,380
+Business,120,427
+Business,130,573
+Business,140,683
+Business,150,709
+Business,160,720
+Business,170,806
+Business,180,825
+Business,190,863
+Business,200,859
+Business,210,817
+Business,220,801
+Business,230,872
+Business,240,895
+Business,250,701
+Business,260,665
+Business,270,619
+Business,280,628
+Business,290,672
+Business,300,521
+Business,310,479
+Business,320,442
+Business,330,426
+Business,340,467
+Business,350,340
+Business,360,279
+Business,370,276
+Business,380,247
+Business,390,270
+Business,400,190
+Business,410,178
+Business,420,186
+Business,430,165
+Business,440,149
+Business,450,144
+Business,460,124
+Business,470,126
+Business,480,131
+Business,490,128
+Business,500,97
+Business,510,115
+Business,520,90
+Business,530,92
+Business,540,121
+Business,550,68
+Business,560,75
+Business,570,82
+Business,580,68
+Business,590,57
+Business,600,53
+Business,610,48
+Business,620,49
+Business,630,23
+Business,640,39
+Business,650,16
+Business,660,30
+Business,670,24
+Business,680,20
+Business,690,22
+Business,700,19
+Business,710,27
+Business,720,25
+Business,730,15
+Business,740,20
+Business,750,14
+Business,760,11
+Business,770,20
+Business,780,14
+Business,790,12
+Business,800,249
+Social sciences & health,60,462
+Social sciences & health,70,333
+Social sciences & health,80,436
+Social sciences & health,90,834
+Social sciences & health,100,610
+Social sciences & health,110,732
+Social sciences & health,120,888
+Social sciences & health,130,1073
+Social sciences & health,140,1770
+Social sciences & health,150,1358
+Social sciences & health,160,1507
+Social sciences & health,170,1680
+Social sciences & health,180,1804
+Social sciences & health,190,2024
+Social sciences & health,200,1822
+Social sciences & health,210,1795
+Social sciences & health,220,1765
+Social sciences & health,230,1753
+Social sciences & health,240,2133
+Social sciences & health,250,1746
+Social sciences & health,260,1614
+Social sciences & health,270,1471
+Social sciences & health,280,1435
+Social sciences & health,290,1823
+Social sciences & health,300,1338
+Social sciences & health,310,1206
+Social sciences & health,320,1098
+Social sciences & health,330,1148
+Social sciences & health,340,1457
+Social sciences & health,350,905
+Social sciences & health,360,667
+Social sciences & health,370,658
+Social sciences & health,380,607
+Social sciences & health,390,794
+Social sciences & health,400,525
+Social sciences & health,410,427
+Social sciences & health,420,380
+Social sciences & health,430,341
+Social sciences & health,440,347
+Social sciences & health,450,327
+Social sciences & health,460,341
+Social sciences & health,470,315
+Social sciences & health,480,326
+Social sciences & health,490,414
+Social sciences & health,500,265
+Social sciences & health,510,244
+Social sciences & health,520,247
+Social sciences & health,530,230
+Social sciences & health,540,328
+Social sciences & health,550,183
+Social sciences & health,560,195
+Social sciences & health,570,199
+Social sciences & health,580,177
+Social sciences & health,590,224
+Social sciences & health,600,147
+Social sciences & health,610,111
+Social sciences & health,620,87
+Social sciences & health,630,78
+Social sciences & health,640,87
+Social sciences & health,650,59
+Social sciences & health,660,62
+Social sciences & health,670,67
+Social sciences & health,680,64
+Social sciences & health,690,68
+Social sciences & health,700,54
+Social sciences & health,710,43
+Social sciences & health,720,42
+Social sciences & health,730,42
+Social sciences & health,740,43
+Social sciences & health,750,47
+Social sciences & health,760,34
+Social sciences & health,770,42
+Social sciences & health,780,25
+Social sciences & health,790,29
+Social sciences & health,800,787
